@@ -1,0 +1,49 @@
+.App {
+  box-shadow: rgba(0, 0, 0, 0.2);
+  background-image: linear-gradient(to bottom right, red, aqua);
+  height: 100vh;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Head {
+  text-align: center;
+  margin: 20px;
+  color: aliceblue;
+}
+
+.SelectTag {
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.WeatherBox {
+  border: 2px solid;
+  border-radius: 5px;
+  border-color: purple;
+  width: 200px;
+  align-items: center;
+  margin: 20px;
+  margin-top: 50px;
+  text-align: center;
+  float: left;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.9);
+}
+
+.CurrentHour {
+  position: absolute;
+  font-size: 28px;
+  right: 15px;
+}
+
+.Info {
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+}
+
+.Main {
+  margin: 50px;
+  justify-content: center;
+}

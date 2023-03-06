@@ -1,0 +1,23 @@
+.App{
+  background-color: aqua;
+  box-shadow: rgba(0, 0, 0, 0.2);
+  height: 110vh;
+}
+/* .Head{
+  text-align: center;
+  margin: 50px;
+}
+.SelectTag{
+  max-height: fit-content;
+  border-radius: 5px;
+}
+.WeatherBox{
+  border: 2px;
+  border-color: darkslategray;
+  border-radius: 5px;
+
+}
+.CurrentHour{
+  justify-content: right;
+  align-items: flex-end;
+} */
